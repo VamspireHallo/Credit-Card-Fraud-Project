@@ -8,8 +8,3 @@ gradio
 seaborn
 matplotlib
 joblib
-
-
-Kaggle Dataset Links
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
-https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
