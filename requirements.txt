@@ -4,7 +4,12 @@ scikit-learn
 imblearn
 xgboost
 torch
+torchvision
 gradio
 seaborn
 matplotlib
 joblib
+seaborn
+streamlit
+imblearn
+kagglehub
